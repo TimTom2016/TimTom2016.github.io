@@ -1,0 +1,36 @@
+.head1 {
+  font-size:40px;
+  color:#336600;
+  font-weight:bold;
+}
+.head2 {
+  font-size: :19px;
+  margin-left: 10px;
+  margin-top: 15px;
+}
+body {
+  margin: 0 auto;
+  background-position: center;
+  background-size: contain;
+}
+.menu {
+  position: sticky;
+  top: 0px;
+  background-color: #336600;
+  padding: 10px 0px 10px 0px;
+  color: black;
+  margin: auto;
+  overflow: hidden;
+}
+.menu a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+}
+.About {
+  right: auto;
+  float: right;
+}
